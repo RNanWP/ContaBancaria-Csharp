@@ -34,8 +34,10 @@ Este é um aplicativo de **Conta Bancária** desenvolvido em C# utilizando o Win
 4. **Execute o aplicativo:**
 - Clique em Start ou pressione F5 para executar o aplicativo.
 
+```markdown
 ## Estrutura do Projeto
 
+```plaintext
 ├── WindowsFormsApp2
 │ ├── Form1.cs # Código principal do formulário
 │ ├── ContaBancaria.cs # Implementação da classe ContaBancaria
