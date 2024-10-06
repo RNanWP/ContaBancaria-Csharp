@@ -1,7 +1,5 @@
 # Conta Bancária em C#
 
-## Descrição
-
 Este é um aplicativo de **Conta Bancária** desenvolvido em C# utilizando o Windows Forms. O objetivo do projeto é simular operações bancárias básicas, como depósito e saque, de forma simples e intuitiva. O aplicativo permite ao usuário gerenciar sua conta bancária, verificar saldo e realizar transações.
 
 ## Funcionalidades
