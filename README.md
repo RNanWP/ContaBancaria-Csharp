@@ -37,13 +37,14 @@ Este é um aplicativo de **Conta Bancária** desenvolvido em C# utilizando o Win
 ```markdown
 ## Estrutura do Projeto
 
-```plaintext
+
 ├── WindowsFormsApp2
 │ ├── Form1.cs # Código principal do formulário
 │ ├── ContaBancaria.cs # Implementação da classe ContaBancaria
 │ ├── Program.cs # Ponto de entrada do aplicativo
 │ └── Form1.Designer.cs # Designer do formulário
 └── README.md # Documentação do projeto
+```
 
 ## Licença
 
