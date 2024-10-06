@@ -25,15 +25,14 @@ Este é um aplicativo de **Conta Bancária** desenvolvido em C# utilizando o Win
    git clone https://github.com/RNanWP/ContaBancaria-Csharp.git
    ```
 
-Abra o projeto no Visual Studio:
+2. **Abra o projeto no Visual Studio:**
+- Navegue até a pasta do projeto e abra o arquivo WindowsFormsApp2.sln.
 
-Navegue até a pasta do projeto e abra o arquivo WindowsFormsApp2.sln.
-Compile o projeto:
+3. **Compile o projeto:**
+- Clique em Build no menu e, em seguida, em Build Solution para compilar o projeto.
 
-Clique em Build no menu e, em seguida, em Build Solution para compilar o projeto.
-Execute o aplicativo:
-
-Clique em Start ou pressione F5 para executar o aplicativo.
+4. **Execute o aplicativo:**
+- Clique em Start ou pressione F5 para executar o aplicativo.
 
 ## Estrutura do Projeto
 
@@ -52,5 +51,5 @@ Este projeto está licenciado sob a MIT License
 
 Para mais informações, entre em contato:
 
-Nome: Renan Santos de Oliveira
-Email: renan92011@hotmail.com
+- Nome: Renan Santos de Oliveira.
+- Email: renan92011@hotmail.com
